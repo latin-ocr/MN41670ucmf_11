@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./MN41670ucmf_11_0008.png"; bbox 0 0 2165 3088; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 159 484 1072 799">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 159 484 1072 799">
+     <span class='ocr_line' id='line_1_1' title="bbox 159 484 1072 799; baseline -0.013 -46"><span class='ocrx_word' id='word_1_1' title='bbox 159 484 947 799; x_wconf 75' lang='lat' dir='ltr'>Feuerborn,</span> <span class='ocrx_word' id='word_1_2' title='bbox 1006 489 1072 741; x_wconf 90' lang='lat' dir='ltr'>J</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 168 1331 886 1599">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 168 1331 886 1599">
+     <span class='ocr_line' id='line_1_2' title="bbox 168 1331 886 1599; baseline -0.018 -2"><span class='ocrx_word' id='word_1_3' title='bbox 168 1331 886 1599; x_wconf 78' lang='lat' dir='ltr'>Demation</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 21 1751 1071 2157">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 21 1751 1071 2157">
+     <span class='ocr_line' id='line_1_3' title="bbox 21 1751 1071 2157; baseline -0.017 -132"><span class='ocrx_word' id='word_1_4' title='bbox 21 2153 24 2157; x_wconf 6' lang='lat'>¹</span> <span class='ocrx_word' id='word_1_5' title='bbox 175 1751 1071 2093; x_wconf 76' lang='lat' dir='ltr'>dispvtationv</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1113 3088">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1113 3088">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1113 3088; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1113 3088; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 178 2605 978 2942">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 178 2605 978 2942">
+     <span class='ocr_line' id='line_1_5' title="bbox 178 2605 978 2942; baseline -0.016 -73"><span class='ocrx_word' id='word_1_7' title='bbox 178 2605 750 2942; x_wconf 79' lang='lat' dir='ltr'>Lipsiae,</span> <span class='ocrx_word' id='word_1_8' title='bbox 824 2605 978 2857; x_wconf 78' lang='lat'>17</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
